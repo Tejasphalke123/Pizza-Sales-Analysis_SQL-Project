@@ -1,4 +1,4 @@
-Pizza Sales Analysis - SQL Project
+Pizza Sales Analysis - SQL Project 
 
 📌 Project Overview
 
