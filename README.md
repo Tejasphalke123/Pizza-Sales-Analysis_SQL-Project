@@ -16,31 +16,7 @@ Pizzas: Details of different pizza types, sizes, and prices.
 
 Pizza Categories: Classification of pizzas by category.
 
-🔍 SQL Queries & Analysis Performed
 
-The project includes various SQL queries for:
-
-Retrieve the total number of orders placed.
-
-Calculate the total revenue generated from pizza sales.
-
-Identify the highest-priced pizza.
-
-Determine the most common pizza size ordered.
-
-List the top 5 most ordered pizza types along with their quantities.
-
-Analyze the cumulative revenue generated over time.
-
-Determine the top 3 most ordered pizza types based on revenue.
-
-Group the orders by date and calculate the average number of pizzas ordered per day.
-
-Find the category-wise distribution of pizzas.
-
-Determine the distribution of orders by hour of the day.
-
-Find the total quantity of each pizza category ordered.
 
 🛠 Technologies Used
 
