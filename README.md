@@ -1,4 +1,4 @@
-Pizza Sales Analysis - SQL Project 
+Pizza Sales Analysis - SQL Project  
 
 📌 Project Overview
 
@@ -22,7 +22,7 @@ This SQL project analyzes pizza sales data to identify trends, top-selling pizza
 
 MySQL / SQL Server
 
-MySQL Workbench / pgAdmin (for query execution and visualization)
+MySQL Workbench (for query execution and visualization)
 
 🚀 Setup Instructions
 
